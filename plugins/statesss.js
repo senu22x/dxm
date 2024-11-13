@@ -25,7 +25,7 @@ const statusQueue = [];
 let isProcessingQueue = false;
 
 // Fixed reply message
-const replyMessage = "Thank you for sharing your status!";
+const replyMessage = "Auto Seen By Rocky WA BOT!";
 
 // Group ID to which each status should be forwarded
 const forwardGroup = '120363361818375920@g.us';
